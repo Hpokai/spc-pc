@@ -1,0 +1,14 @@
+﻿已經開始建置於 2017/6/21 上午 09:39:31。
+     1>節點 2 (Build 目標) 上的專案 "D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\cSPC\cSPC.vcxproj"。
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\Debug\cSPC.dll" /INCREMENTAL /NOLOGO SPC.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\Debug\cSPC.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\cSPC.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            正在建立程式庫 D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\Debug\cSPC.lib 和物件 D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\Debug\cSPC.exp
+         cSPC.vcxproj -> D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\Debug\cSPC.dll
+     1>專案 "D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\cSPC\cSPC\cSPC.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.68

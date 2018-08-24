@@ -1,0 +1,12 @@
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\appSPC.exe.config
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\appSPC.exe
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\appSPC.pdb
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\cSPC.dll
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\csSPC.dll
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\bin\Debug\csSPC.pdb
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.Form1.resources
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.Properties.Resources.resources
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.csproj.GenerateResource.Cache
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.exe
+D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\appSPC\appSPC\obj\Debug\appSPC.pdb

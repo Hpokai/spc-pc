@@ -1,0 +1,19 @@
+﻿已經開始建置於 2017/6/20 下午 04:55:42。
+     1>節點 2 (Rebuild 目標) 上的專案 "D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\SPC\SPC\SPC.vcxproj"。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt /clr:nostdlib SPC.cpp
+         SPC.cpp
+     1>SPC.cpp(224): warning C4244: '引數' : 將 'ULONGLONG' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>SPC.cpp(773): warning C4129: '.' : 無法辨識的字元逸出序列
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\HsiehP1\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\SPC\Debug\SPC.lib" /NOLOGO Debug\SPC.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: 這個物件檔案沒有定義任何以前未定義的公用符號，因此任何使用這個程式庫的連結作業都將不會使用它。
+         SPC.vcxproj -> D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\SPC\Debug\SPC.lib
+     1>專案 "D:\Jabil\00__Project\_CHA\14-Development of SPC TypeB - PC version\SPC\SPC\SPC.vcxproj" (Rebuild 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.99
